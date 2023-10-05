@@ -1,1 +1,2 @@
 This the second file.
+A new was added.
